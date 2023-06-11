@@ -163,6 +163,7 @@ html{
     font-size: 4rem;
     color: #fff;
     width: 70%;
+    text-transform: none;
     letter-spacing: 0-1rem;
     margin-bottom: 3rem;
     text-shadow: 0 0.3rem 0.5rem rgba(0,0,0,0.4);  
