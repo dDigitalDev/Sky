@@ -88,15 +88,15 @@ html{
 }
 
 .img-wrapper{
-    width: 290%;
-    height:290%;
+    width: 100%;
+    height:100%;
     background-color: rgba(0,0,0,0.8);
     overflow: hidden;
 }
 
 .img-wrapper img {
-    width: 290%;
-    height: 20%;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
     opacity: 0.5;
     animation: scale 25s;
