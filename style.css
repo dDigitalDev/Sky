@@ -151,7 +151,7 @@ html{
     font-weight: 400;
     color: #fff;
     width: 50%;
-    line-height: 6rem;
+    line-height: normal;
     letter-spacing: 1rem;
     text-shadow: 0.3rem .5rem rgba(0,0,0,0.4);
     opacity: 0;
