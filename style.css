@@ -590,8 +590,8 @@ html{
     }
 
     .img-wrapper img {
-        width:600%;
-        height: 600%;
+        width:400%;
+        height: 400%;
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
@@ -622,8 +622,8 @@ html{
     }
 
     .img-wrapper img {
-        width: 60%;
-        height: 600%;
+        width: 400%;
+        height: 400%;
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
@@ -690,8 +690,8 @@ html{
 
 
     .img-wrapper img {
-        width: 600%;
-        height: 600%;
+        width: 400%;
+        height: 400%;
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
@@ -741,8 +741,8 @@ html{
     }
 
     .img-wrapper img {
-        width: 600%;
-        height: 600%;
+        width: 400%;
+        height: 400%;
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
@@ -802,8 +802,8 @@ html{
     }
 
     .img-wrapper img {
-        width: 600%;
-        height: 600%;
+        width: 400%;
+        height: 400%;
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
@@ -844,8 +844,8 @@ html{
     }
 
     .img-wrapper img {
-        width: 600%;
-        height: 600%;
+        width: 400%;
+        height: 400%;
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
