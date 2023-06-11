@@ -784,7 +784,7 @@ html{
 }
 @media(max-width:300px){
     .banner{
-        position: absolute;
+        position: relativeBA;
         top: 10%;
         left: 15%;
     }
