@@ -560,6 +560,15 @@ html{
     .card{
         width: 34rem;
     }
+
+    .img-wrapper img {
+        width: 290%;
+        height: 290%;
+        object-fit: cover;
+        opacity: 0.5;
+        animation: scale 25s;
+    }
+
     .contact-wrapper{
         width: 80%;
         height: 60rem;
@@ -583,6 +592,15 @@ html{
         font-weight: 6rem;
         line-height: 7rem;
     }
+
+    .img-wrapper img {
+        width: 290%;
+        height: 290%;
+        object-fit: cover;
+        opacity: 0.5;
+        animation: scale 25s;
+    }
+
     .banner p{
         font-size: 3rem;
     }
@@ -641,6 +659,16 @@ html{
         align-items: center;
         margin-top: 4rem;
     }
+
+
+    .img-wrapper img {
+        width: 290%;
+        height: 290%;
+        object-fit: cover;
+        opacity: 0.5;
+        animation: scale 25s;
+    }
+
     .card{
         margin-bottom: 8rem;
     }
@@ -683,6 +711,15 @@ html{
         font-size: 5rem;
         line-height: 6rem;
     }
+
+    .img-wrapper img {
+        width: 290%;
+        height: 290%;
+        object-fit: cover;
+        opacity: 0.5;
+        animation: scale 25s;
+    }
+
     .banner p{
         font-size: 2.5rem;
     }
@@ -735,6 +772,15 @@ html{
         font-size: 3rem;
         line-height: 4rem;
     }
+
+    .img-wrapper img {
+        width: 290%;
+        height: 290%;
+        object-fit: cover;
+        opacity: 0.5;
+        animation: scale 25s;
+    }
+
     .banner p{
         font-size: 2rem;
     }
@@ -768,6 +814,15 @@ html{
     html{
         font-size: 45%;
     }
+
+    .img-wrapper img {
+        width: 290%;
+        height: 290%;
+        object-fit: cover;
+        opacity: 0.5;
+        animation: scale 25s;
+    }
+
     .sidebar{
         width: 100%;
         right: -100%;
