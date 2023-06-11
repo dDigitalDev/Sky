@@ -95,8 +95,8 @@ html{
 }
 
 .img-wrapper img {
-    width: 270%;
-    height: 270%;
+    width: 290%;
+    height: 290%;
     object-fit: cover;
     opacity: 0.5;
     animation: scale 25s;
