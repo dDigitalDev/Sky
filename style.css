@@ -595,6 +595,8 @@ html{
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
+        background-attachment: fixed;
+
     }
 
     .contact-wrapper{
@@ -627,6 +629,8 @@ html{
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
+        background-attachment: fixed;
+
     }
 
     .banner p{
@@ -695,6 +699,8 @@ html{
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
+        background-attachment: fixed;
+
     }
 
     .card{
@@ -746,6 +752,8 @@ html{
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
+        background-attachment: fixed;
+
     }
 
     .banner p{
@@ -807,6 +815,8 @@ html{
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
+        background-attachment: fixed;
+
     }
 
     .banner p{
@@ -849,6 +859,7 @@ html{
         object-fit: cover;
         opacity: 0.5;
         animation: scale 25s;
+        background-attachment: fixed;
     }
 
     .sidebar{
