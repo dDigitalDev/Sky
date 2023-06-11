@@ -94,6 +94,14 @@ html{
     overflow: hidden;
 }
 
+.scroller {
+    height: 1.2em;
+    line-height: 1.2em;
+    position: relative;
+    overflow: hidden;
+    width: 10em;
+  }
+
 .scroller > span {
     position: absolute;
     top: 0;
