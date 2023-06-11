@@ -108,12 +108,7 @@ html{
     25% {
       top: -1.2em;
     }
-    50% {
-      top: -2.4em;
-    }
-    75% {
-      top: -3.6em;
-    }
+   
   }
 
 .img-wrapper img {
