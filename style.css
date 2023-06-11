@@ -112,8 +112,8 @@ html{
 }
 .banner{
     position: absolute;
-    top: 20%;
-    left: 15%;
+    top: 100%;
+    left: 100%;
 }
 
 .banner h1{
